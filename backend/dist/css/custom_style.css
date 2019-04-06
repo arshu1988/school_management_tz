@@ -1,0 +1,12 @@
+.box_dashboard{
+	display: block;
+    font-size: 15px;
+    margin-top: 38px;
+    white-space: nowrap;
+    margin-left: 19px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.skin-blue .sidebar-menu > li.custom_menu:hover > a, .skin-blue .sidebar-menu > li.custom_menu.active > a{
+	color: #b0dd38;
+}
